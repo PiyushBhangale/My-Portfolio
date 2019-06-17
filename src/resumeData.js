@@ -2,7 +2,7 @@ let resumeData = {
   imagebaseurl: "",
   name: "Piyush Bhangale",
   role: "Fullstack Developer",
-  linkedinId: " +91 8556533390",
+  linkedinId: " +91 8446533390",
 
   roleDescription:
     " I like dabbling in various parts of software development and like to learn about new technologies, sometimes write some articles or simply bump into Reddit or Quora in free time.",
