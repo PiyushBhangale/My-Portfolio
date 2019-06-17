@@ -314,9 +314,14 @@ ul#nav li.current a {
   margin-right: 5px;
   margin-left: 5px;
 }
+.head-er {
+  font-size: x-large;
+  font-style: bold;
+  color: black;
+}
 #resume .date {
-  font: 15px/24px "opensans-regular", sans-serif;
-  margin-top: 6px;
+  font: 15px/24px "opensans-regular", sans-serif !important;
+  margin-top: 6px !important;
 }
 
 /*----------------------------------------------*/
