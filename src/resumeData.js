@@ -47,7 +47,7 @@ let resumeData = {
     {
       CompanyName: "Sattvarise Technologies (Intern)",
       specialization: "Vuforia, Google Carboard, AR/VR applicatons, Unity",
-      MonthOfLeaving: "March",
+      MonthOfLeaving: "Jan-March",
       YearOfLeaving: "2017",
       Achievements:
         "The role included development of Augmented Reality and Virtual Reality related applications with Unity platform."
@@ -55,14 +55,14 @@ let resumeData = {
     {
       CompanyName: "Trendzlink (Intern)",
       specialization: "Python, Django, JavaScript, Css, HTML, Mysql",
-      MonthOfLeaving: "Jan",
-      YearOfLeaving: "2018",
+      MonthOfLeaving: "May-July",
+      YearOfLeaving: "2017",
       Achievements: "The role included development of website and a chatbot."
     },
     {
       CompanyName: "LiveHealth (Jr Software Developer)",
       specialization: "Python, Django, ReactJs, Css, HTML, Mysql",
-      MonthOfLeaving: "Dec",
+      MonthOfLeaving: "Jan",
       YearOfLeaving: "2018",
       Achievements:
         "Developed various modules for overall enhancement of Livehealth as a product."
