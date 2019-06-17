@@ -7,7 +7,7 @@
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.1"
   },
-  "hompage": "https://github.com/PiyushBhangale/My-Portfolio",
+  "hompage": "https://github.com/PiyushBhangale/My-Portfolio/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
